@@ -1,7 +1,7 @@
 #write out your code here
 
-def least_coins(cents)
+def least_coins(29)
 
-#Code your answer here!
+  puts quarters 
 
 end
